@@ -67,6 +67,10 @@ a.font-black{
     color: black;
     width: 20px;
 }
+#about .icon {
+    margin-top: 20px;
+    font-size: 30px;
+}
 
 /**Project**/
 
@@ -81,4 +85,8 @@ a.font-black{
 
 #project .card img{
     width:100%;
+}
+
+#project .card-title{
+    font-weight: bold;
 }
