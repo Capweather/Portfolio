@@ -12,6 +12,20 @@ body{
 
 }
 
+p{
+    font-size: 14px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+a.font-black{
+    color: #000 !important;
+}
+
 /**about**/
 
 #about{
@@ -52,4 +66,19 @@ body{
 #about .icon a{
     color: black;
     width: 20px;
+}
+
+/**Project**/
+
+#project{
+    margin: 60px auto;
+    width: 80%
+}
+
+#project h2{
+    text-align: center;
+}
+
+#project .card img{
+    width:100%;
 }
